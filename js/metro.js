@@ -32582,7 +32582,7 @@ $.noConflict = function() {
 }(Metro, m4q));
 
 /**
- * Component Vegas based on Vegas by Jay Salvat (http://jaysalvat.com/)
+ * Component Vegas based on Vegas by Jay Salvat (https://jaysalvat.com/)
  * Original code https://github.com/jaysalvat/vegas
  * MIT License, Copyright 2018 Jay Salvat
  *
